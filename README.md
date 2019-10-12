@@ -1,4 +1,4 @@
-# Split Awesome
+# Split Together
 
 Split Together easily splits receipts and settles the bill at the snap of the camera. Users take a picture of a receipt and the app then uses image recognition to present an interactive screen where everyone at the table can select their ordered item.
 
@@ -9,9 +9,14 @@ Split Together easily splits receipts and settles the bill at the snap of the ca
 
 ## Final Product
 
+<p align="center">
+ <img width="350" alt="split-together" src="https://github.com/declan-wu/split-together/blob/master/public/split-together.gif">
+ &nbsp  &nbsp  &nbsp  &nbsp
+ <img width="350" alt="dash-board" src="https://github.com/declan-wu/split-together/blob/master/public/dash-board.gif">
+</p>
 
 ## Getting Started
-Note: The [Split Together](https://github.com/kvsuen/split-awesome-api) API server will also need to be running concurrently.
+Note: The [Split Together](https://github.com/kvsuen/split-together-api) API server will also need to be running concurrently.
 
 1. Create the `.env` by using `.env.example`
 2. Update the `.env` file with the correct information:
